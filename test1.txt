@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 0E78-B9BB
+
+ Directory of C:\Users\Dell\Desktop\MyProject
+
+08/18/2021  12:38 PM    <DIR>          .
+08/18/2021  12:38 PM    <DIR>          ..
+08/18/2021  12:38 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  78,654,132,224 bytes free
